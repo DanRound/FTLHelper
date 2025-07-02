@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTLTrainer", "FTLTrainer\FTLTrainer.csproj", "{5BDB0AE9-BFD2-4A2A-96B6-082BDC00789F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDB0AE9-BFD2-4A2A-96B6-082BDC00789F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDB0AE9-BFD2-4A2A-96B6-082BDC00789F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDB0AE9-BFD2-4A2A-96B6-082BDC00789F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDB0AE9-BFD2-4A2A-96B6-082BDC00789F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7AA96E-1D10-4575-8905-F329A6FAFB7D}
+	EndGlobalSection
+EndGlobal
